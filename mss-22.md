@@ -6,9 +6,14 @@ MSS is an event of Community Beatmapping Contest Ecosystem (CBCE) project. Offic
 
 ## Contest Format
 
-**Track**: MSS has two tracks: **instrumental** and **vocal**. Each track is independent considering participation, judging and prize.
-**Season:**: One **Season** of MSS expands throughout the entire year, consisting of 4 **Quarters**.
-**Quarter**: One **Quarter** of MSS consists of 3 **Months**. 
-**Month**: One **Month** of MSS consists of one **instrumental** contest and one **vocal** contest.
+1. **Track**: MSS has two tracks: **instrumental** and **vocal**. Each track is independent considering participation, judging and prize.
+1. **Season:**: One **Season** of MSS expands throughout the entire year, consisting of 4 **Quarters**.
+1. **Quarter**: One **Quarter** of MSS consists of 3 **Months**. 
+1. **Month**: One **Month** of MSS consists of one **instrumental** contest and one **vocal** contest.
+
+In summary, each year (season), there are 4 quarters, 12 months and 12 contests for each track.
 
 ## Participation
+
+1. No registration is required, however, participants are required to join the CBCE Discord server: https://discord.gg/fVgU9pA as the release of templates of each contest is announced there.
+1. 
