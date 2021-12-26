@@ -20,10 +20,10 @@ In summary, each year (season), there are 4 quarters, 12 months and 12 contests 
 1. **Rules**: Participants must follow the related general community rules, code of conduct and beatmap content rules. The ranking criteria is obeyed, except for inapplicable items such as spread.
 1. **Integrity**: This contest is not a collaborative contest, submissions cannot be shared with anyone other than the staff of MSS until the result is released.
 1. **Submission**:
-  - Change the creator to your own username.
-  - Remove the song mp3 file and background file from your folder (and other unnecessary files too, just keep the .osu and hitsound files).
-  - Save and export beatmap to .osz (or .zip, .7z, .rar).
-  - Rename the .osz file to “Username_Month_Track.osz”
+    - Change the creator to your own username.
+    - Remove the song mp3 file and background file from your folder (and other unnecessary files too, just keep the .osu and hitsound files).
+    - Save and export beatmap to .osz (or .zip, .7z, .rar).
+    - Rename the .osz file to “Username_Month_Track.osz”
  
 ## Judging
 1. **Quarterly Judging**: Judging happens after each quarter
