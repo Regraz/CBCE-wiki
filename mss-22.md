@@ -4,10 +4,10 @@ Monthly Speedmapping Series (MSS) is a series of osu! speed beatmapping event ta
 
 MSS is an event of Community Beatmapping Contest Ecosystem (CBCE) project. Official Discord: https://discord.gg/fVgU9pA Join for news and updates!
 
-## Short Summary
-1. Two individual tracks: vocal and instrumental.
-2. Map any 1-minute drain time of the song within 72 hours of the weekend.
-3. No minimum number of contests required.
+## Short Summary about Differences from 2021
+1. Two individual tracks: vocal and instrumental. (2021: only one track)
+2. Map any 1-minute drain time of the song within 72 hours of the weekend. (2021: 3-hour)
+3. No minimum number of contests required (this year total score calculation is optimized to mitigate impact from number of participants). (2021: 4 contests of highest scores)
 
 ## Contest Format
 
