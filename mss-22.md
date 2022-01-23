@@ -42,6 +42,7 @@ In summary, each year (season), there are 4 quarters, 12 months and 12 contests 
       - Creativity (1/40): How well does the submission show originality and uniqueness compared with the other submissions, with reasonable respect to the playability?
       - Judge’s Impression (0.5/20): This is the part of the score left to the Judges’ personal preferences on the submission.
       - Completeness (0.05x/1.0x): This will be applied as an overall scaling factor over the scores to reflect the completeness of the entry since this is a speedmapping contest. 
+      - Scores will be standardized.
       - Apart from scoring, judge will also provide an optional 50 - 100 words remarks as feedback to the participants.
  1. **Code of Conduct**: Comments on entries must follow general rules of osu! as well as the code of conduct for modding. The objective of comment is to help mappers to identify potential improvements so helpful and reasonable comments are preferred than just personal preferences.
  2. **Penalty**: The minimum score and the highest score got by the participant are subject to a 50% weight as penalty.
