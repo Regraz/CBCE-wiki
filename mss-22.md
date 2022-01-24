@@ -12,22 +12,22 @@ MSS is an event of Community Beatmapping Contest Ecosystem (CBCE) project. Offic
 ## Contest Format
 
 1. **Track**: MSS has two tracks: **instrumental** and **vocal**. Each track is independent considering participation, judging and prize.
-1. **Season:**: One **Season** of MSS expands throughout the entire year, consisting of 12 **Months**. 
-1. **Month**: One **Month** of MSS consists of one **instrumental** contest and one **vocal** contest.
+2. **Season:**: One **Season** of MSS expands throughout the entire year, consisting of 12 **Months**. 
+3. **Month**: One **Month** of MSS consists of one **instrumental** contest and one **vocal** contest.
 
 In summary, each year (season), there are 4 quarters, 12 months and 12 contests for each track. Participant are free to participate one or both of these two completely individual tracks!
 
 ## Participation
 
 1. **Eligibility**: To participate, one must have an unrestricted osu! account. Judges are not able to participate in the quarter where they judge but they can participate the rests. 
-1. **Registration**: No registration is required, however, participants are required to join the CBCE Discord server: https://discord.gg/fVgU9pA as the release of templates of each contest is announced there.
-1. **Rules**: Participants must follow the related general community rules, code of conduct and beatmap content rules. The ranking criteria is obeyed, except for inapplicable items such as spread.
-2. **Weekend Mapping**: MSS will happen on the weekend for 72 hours: **Friday 00:00:00 - Sunday 23:59:59 Anywhere on Earth (AoE)** time, this is make sure that the timeframe covers the entire weekend on anywhere of the earth, providng enough time for participants to map and submit! 
-3. **Completeness**: Please note the following rules about completeness:
+2. **Registration**: No registration is required, however, participants are required to join the CBCE Discord server: https://discord.gg/fVgU9pA as the release of templates of each contest is announced there.
+3. **Rules**: Participants must follow the related general community rules, code of conduct and beatmap content rules. The ranking criteria is obeyed, except for inapplicable items such as spread.
+4. **Weekend Mapping**: MSS will happen on the weekend for 72 hours: **Friday 00:00:00 - Sunday 23:59:59 Anywhere on Earth (AoE)** time, this is make sure that the timeframe covers the entire weekend on anywhere of the earth, providng enough time for participants to map and submit! 
+5. **Completeness**: Please note the following rules about completeness:
     - Partcipant must finish a drain time higher than 1 minute of each song however participant can decide where to start and end and can also break the mapped part into a few sections.
     - Other factors like copy-paste sections, and lack of hitsounding are also considered and the penalty is up to the judge to reflect on the **completeness** score.
-4. **Integrity**: This contest is not a collaborative contest, submissions cannot be shared with anyone other than the staff of MSS until the result is released.
-5. **Submission**:
+6. **Integrity**: This contest is not a collaborative contest, submissions cannot be shared with anyone other than the staff of MSS until the result is released.
+7. **Submission**:
     - Change the creator to your own username.
     - Remove the song mp3 file and background file from your folder (and other unnecessary files too, just keep the .osu and hitsound files).
     - Save and export beatmap to .osz (or you can manually compress into .zip, .7z, .rar).
@@ -36,8 +36,8 @@ In summary, each year (season), there are 4 quarters, 12 months and 12 contests 
  
 ## Judging
 1. **Judging Panel**: There will be 5 - 8 judges for each judging.
-1. **Blind Judging**: Each judge will score the submissions independently. Judges will not know the creator of the submissions.
-1. **Criteria:**: Judging will be based on the criteria below:
+2. **Blind Judging**: Each judge will score the submissions independently. Judges will not know the creator of the submissions.
+3. **Criteria:**: Judging will be based on the criteria below:
       - Expertise (1/40): How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc? How consistent is the submission regarding structure, music representation, flow, hitsounding, etc, especially between different sections?
       - Creativity (1/40): How well does the submission show originality and uniqueness compared with the other submissions, with reasonable respect to the playability?
       - Judge’s Impression (0.5/20): This is the part of the score left to the Judges’ personal preferences on the submission.
